@@ -37,7 +37,7 @@
 
  ## OUTPUT
 
- ![Exp 1 2 v1 (3) Drawing v1_page-0001](https://github.com/user-attachments/assets/6cf1ac19-ca5f-43eb-a5c7-381fad251a87)
+![Exp 1 2 v1 _page-0001](https://github.com/user-attachments/assets/3fba7b5e-f093-4fb5-a78c-12f8fc576fa6)
 
  
  ## RESULT
